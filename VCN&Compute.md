@@ -1,4 +1,5 @@
-![image](https://github.com/kazunishi716/oci-handson/assets/153155301/1e7b2f26-ec49-4b94-9e6d-3d7f495f2038)# OCIハンズオン-VCN+Compute編
+# OCIハンズオン-VCN&Compute編
+
 - ハンズオン-作業イメージ&前提
 - ハンズオン用のコンパートメント作成
 - VCN作成
