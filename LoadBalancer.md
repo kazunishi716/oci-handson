@@ -31,7 +31,7 @@ sudo firewall-cmd --permanent --add-port=443/tcp
 ```
 3. ファイアウォールを再ロードします
 ```
-sudo firewall-cmd –reload
+ sudo firewall-cmd --reload
 ```
 4. Webサーバーを起動します
 ```
@@ -39,7 +39,9 @@ sudo systemctl start httpd
 ```
 5. index.html ファイルを作成し、それぞれにどちらのWebサーバーかを示す文字列を記述します
 ```
-1台目： sudo sh -c ‘echo “Web Server 1 (host:`hostname`)” > /var/www/html/index.html’
+1台目： sudo sh -c 'echo "Web Server 1 (host:`hostname`)" > /var/www/html/index.html'
+```
+```
 2台目： sudo sh -c 'echo "Web Server 2 (host:`hostname`)" > /var/www/html/index.html'
 ```
 
