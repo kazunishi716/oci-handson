@@ -7,8 +7,8 @@
 - 負荷分散の確認
 
 ## ハンズオン-作業イメージ&前提
-- LoadBalancer / Computeを作成するために必要なポリシーが付与されていること。まだの場合は[こちら](https://github.com/kazunishi716/oci-handson/blob/a96607cfd3e6e39e4820a4219272872bd765b8af/VCN%26Compute.md?plain=1#L29)から作成ください。
-- 作業用コンパートメント及び、VCNが作成されていること。
+- LoadBalancer / Computeを作成するために必要なポリシーが付与されていること。
+- 作業用コンパートメント及び、VCNが作成されていること。まだの場合は[こちら](https://github.com/kazunishi716/oci-handson/blob/a96607cfd3e6e39e4820a4219272872bd765b8af/VCN%26Compute.md?plain=1#L29)から作成ください。
 - 各Computeインスタンスにインターネット経由でssh接続できること。
 
 下記がこのハンズオンで作成できる構成イメージです。
