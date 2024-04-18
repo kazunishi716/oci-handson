@@ -108,10 +108,11 @@ yes > /dev/null &
 
 2. しばらくすると指定したメールアドレス宛に閾値を超過した旨のメールが届きます。
 ※メールタイトルが"OK_TO_FIRING"になっています
+
 ![image](https://github.com/kazunishi716/oci-handson/assets/153155301/116b2871-f773-4406-906e-343a062d5b5d)
 ![image](https://github.com/kazunishi716/oci-handson/assets/153155301/b19df186-baeb-40c4-aba6-38e72102a15f)
 
-3. 停止させる場合は下記コマンドにて番号を確認します
+4. 停止させる場合は下記コマンドにて番号を確認します
 ```
 jobs
 ```
