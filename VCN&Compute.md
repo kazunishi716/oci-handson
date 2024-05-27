@@ -126,8 +126,7 @@ ssh opc@<パブリックIPアドレス> -i <秘密鍵>
 1. Cloud Shell アイコンをクリックします。
 1. コンソール画面の下部にCloud Shellが起動され、 「Oracle Cloud Shell へようこそ。」と表示されていれば起動は完了です。
 
-![image](https://github.com/kazunishi716/oci-handson/assets/153155301/282f0d50-01f9-46b5-bee1-4167dffe55d3)
-
+![image](https://github.com/kazunishi716/oci-handson/assets/153155301/751ae0be-03d2-4058-a6d6-f3edccdad0a4)
 
 3. ダウンロードしておいたSSH鍵のうち、秘密鍵 (～.keyファイル) をCloud Shellへドラッグ＆ドロップします。
 4. 秘密鍵ファイルがCloud Shell環境へ転送されます。完了するとCloud Shell右上に「完了済」と表示されます。
@@ -138,8 +137,7 @@ ssh opc@<パブリックIPアドレス> -i <秘密鍵>
 6. 接続したいコンピュートが配置されているVCNとサブネットを選択し、「このネットワークに接続」を押す
 7. 「ネットワーク：プライベート」になっていることを確認
 
-![image](https://github.com/kazunishi716/oci-handson/assets/153155301/4f1c610a-0f66-4c59-a512-3dfb9f813e12)
-
+![image](https://github.com/kazunishi716/oci-handson/assets/153155301/265457ba-fd89-4b2f-b700-1d6d22a675ac)
 
 8. Cloud Shell上で以下のコマンドを入力し、Enterキーを押します。
 ```
