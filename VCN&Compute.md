@@ -89,7 +89,7 @@
 
 ![image](https://github.com/kazunishi716/oci-handson/assets/153155301/c0fa7aea-bd83-4093-881c-3afb57c386a6)
 
-![image](https://github.com/kazunishi716/oci-handson/assets/153155301/fba64611-0141-4fe8-9e70-08ad45d957da)
+![image](https://github.com/kazunishi716/oci-handson/assets/153155301/cf7d5bfa-b343-4fe5-bf28-5007331a87c2)
 
 ![image](https://github.com/kazunishi716/oci-handson/assets/153155301/77f504b8-483f-416a-a83e-7f7b817ce654)
 
@@ -137,7 +137,8 @@ ssh opc@<パブリックIPアドレス> -i <秘密鍵>
 6. 接続したいコンピュートが配置されているVCNとサブネットを選択し、「このネットワークに接続」を押す
 7. 「ネットワーク：プライベート」になっていることを確認
 
-![image](https://github.com/kazunishi716/oci-handson/assets/153155301/c807b04f-ef6b-4989-ba90-3976cec9f20e)
+![image](https://github.com/kazunishi716/oci-handson/assets/153155301/4f1c610a-0f66-4c59-a512-3dfb9f813e12)
+
 
 8. Cloud Shell上で以下のコマンドを入力し、Enterキーを押します。
 ```
