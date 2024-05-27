@@ -126,7 +126,8 @@ ssh opc@<パブリックIPアドレス> -i <秘密鍵>
 1. Cloud Shell アイコンをクリックします。
 1. コンソール画面の下部にCloud Shellが起動され、 「Oracle Cloud Shell へようこそ。」と表示されていれば起動は完了です。
 
-![image](https://github.com/kazunishi716/oci-handson/assets/153155301/b3d65aa7-aefd-4432-83ae-ca20bf91051d)
+![image](https://github.com/kazunishi716/oci-handson/assets/153155301/282f0d50-01f9-46b5-bee1-4167dffe55d3)
+
 
 3. ダウンロードしておいたSSH鍵のうち、秘密鍵 (～.keyファイル) をCloud Shellへドラッグ＆ドロップします。
 4. 秘密鍵ファイルがCloud Shell環境へ転送されます。完了するとCloud Shell右上に「完了済」と表示されます。
